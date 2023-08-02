@@ -1,0 +1,9 @@
+Soma de 2 numeros
+
+Passo 1: escolher o primeiro numero
+
+Passo 2: escolher o segundo numero
+
+Passo 3: fazer a soma do primeiro com o segundo numero
+
+Resultado: soma dos numeros
